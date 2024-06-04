@@ -1,6 +1,6 @@
 # Test-React-node.js-python
 
-Small CRUD of Movies react linked with service python and node.js
+Small CRUD of Movies react linked with service python and node.js using Database Postgres
 
 ## Prerequisites
 
@@ -83,10 +83,10 @@ Small CRUD of Movies react linked with service python and node.js
 #### Edit Item:
 <img aline="center" src="https://imgur.com/OnNvijL.png" alt="secreenshot">
 
-#### Item Idited Success:
+#### Item Edited Successfully:
 <img aline="center" src="https://imgur.com/XdOcuMS.png" alt="secreenshot">
 
-#### Insert Item Successs:
+#### Item Inserted Successfully:
 <img aline="center" src="https://imgur.com/clk7NVP.png" alt="secreenshot">
 
 
