@@ -89,6 +89,8 @@ Small CRUD of Movies react linked with service python and node.js using Database
 #### Item Inserted Successfully:
 <img aline="center" src="https://imgur.com/clk7NVP.png" alt="secreenshot">
 
+#### Database Table items:
+<img aline="center" src="https://imgur.com/Fg7I4Xg.png" alt="secreenshot">
 
 
 
