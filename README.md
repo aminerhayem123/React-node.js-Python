@@ -78,25 +78,17 @@ Small CRUD of Movies react linked with service python and node.js
 ### Screenshots APP:
 
 #### HomePage:
-<img aline="center" src="https://i.imgur.com/PkVejB8.png" alt="secreenshot">
+<img aline="center" src="https://imgur.com/6DmY6J1.png" alt="secreenshot">
 
-#### Sign up:
-<img aline="center" src="https://i.imgur.com/7N9F02u.png" alt="secreenshot">
+#### Edit Item:
+<img aline="center" src="https://imgur.com/OnNvijL.png" alt="secreenshot">
 
-#### Profile:
-<img aline="center" src="https://i.imgur.com/0ngGfA9.png" alt="secreenshot">
+#### Item Idited Success:
+<img aline="center" src="https://imgur.com/XdOcuMS.png" alt="secreenshot">
 
-#### simple_user's_HomePage:
-<img aline="center" src="https://i.imgur.com/s3V66M9.png" alt="secreenshot">
+#### Insert Item Successs:
+<img aline="center" src="https://imgur.com/clk7NVP.png" alt="secreenshot">
 
-#### eventowner_HomePage:
-<img aline="center" src="https://i.imgur.com/z4B7WDA.png" alt="secreenshot">
-
-#### Add Event:
-<img aline="center" src="https://i.imgur.com/jGL9XTh.png" alt="secreenshot">
-
-#### reset password:
-<img aline="center" src="https://i.imgur.com/HKOwKqc.png" alt="secreenshot">
 
 
 
